@@ -1,0 +1,10 @@
+{
+    "name": "optimizer",
+    "description": "Server Optimizer (BETA) — one page that tunes settings to your hardware, auto-tiers streams between always-on and on-demand by usage, rebalances overloaded load balancers, and places popular streams on strong servers / idle ones on weak servers.",
+    "version": "0.5.0-beta",
+    "requires_core": ">=2.0",
+    "environment": "main",
+    "dependencies": [],
+    "has_navbar": true,
+    "has_settings": true
+}
